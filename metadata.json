@@ -1,0 +1,6 @@
+{
+  "name": "DataNest",
+  "description": "Premium multi-tenant database builder, CRUD management console, and marketing portal for streamlined workspace data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
